@@ -1,0 +1,6 @@
+com\mycompany\techstore\Model\Entity\Product.class
+com\mycompany\techstore\Model\Connection\ConnectionDB.class
+com\mycompany\techstore\View\UserView$1.class
+com\mycompany\techstore\App\TechStore.class
+com\mycompany\techstore\Model\DAO\ProductDAO.class
+com\mycompany\techstore\View\UserView.class
